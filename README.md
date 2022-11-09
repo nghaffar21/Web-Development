@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my repository!
 
-You can use the [editor on GitHub](https://github.com/nghaffar21/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This course was my first step in learning Web Development. In this course I learned about HTML, CSS, and Javascript along with some other tools such as Bootstrap. I also learned to use common web dev practices such as responsive and designs. The final project of this course was to develop a website for a Chinese restaurant. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Bold** and _Italic_This repository only consists of the completed homeworks of this course.
 
 ### Markdown
 
